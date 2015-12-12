@@ -1,4 +1,4 @@
-package grouptest.artifacttest;
+package com.souk.GitPro;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

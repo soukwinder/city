@@ -1,4 +1,4 @@
-package grouptest.artifacttest;
+package com.souk.GitPro;
 
 /**
  * Hello world!
@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        Wagenparkbeheer w = new Wagenparkbeheer();
-        w.positions();
+        System.out.println( "Hello World!" );
     }
 }
