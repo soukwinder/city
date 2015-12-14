@@ -31,6 +31,7 @@ public class WagenparkbeheerTest {
 		Wagenparkbeheer w = new Wagenparkbeheer();
 		w.positions();
 		assertEquals(23, w.UnitIds.size());
+System.out.println("Test 1")
 	}
 
 }
