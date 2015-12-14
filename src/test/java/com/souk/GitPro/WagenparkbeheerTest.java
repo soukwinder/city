@@ -30,7 +30,7 @@ public class WagenparkbeheerTest {
 	public void test() {
 		Wagenparkbeheer w = new Wagenparkbeheer();
 		w.positions();
-		assertEquals(23, w.UnitIds.size());
+		assertEquals(24-1, w.UnitIds.size());
 	}
 
 }
